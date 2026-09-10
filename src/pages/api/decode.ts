@@ -1,4 +1,4 @@
-import * as jwt from "@matheesha/jwt"
+import * as jwt from "jwtkn"
 
 export const runtime = 'edge'
 
